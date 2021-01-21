@@ -1,4 +1,4 @@
-# congressional_twitter_accounts
+# Congressional Twitter Accounts
 A repository of Twitter Accounts belonging to U.S. Congress Members
 
 **Last updated: January 21, 2021**
