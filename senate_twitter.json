@@ -1,0 +1,253 @@
+{
+	"Alabama": 
+	{
+		"Richard Shelby": ["@SenShelby"],
+		"Tommy Tuberville": ["@SenTTuberville", "@TTuberville"]
+	},
+	"Alaska":
+	{
+		"Lisa Murkowski": ["@lisamurkowski"],
+		"Dan Sullivan": ["@SenDanSullivan", "@DanSullivan_AK"]
+	},
+	"Arizona":
+	{
+		"Kyrsten Sinema": ["@SenatorSinema", "@kyrstensinema"],
+		"Mark Kelly": ["@SenMarkKelly", "@CaptMarkKelly"]
+	},
+	"Arkansas":
+	{
+		"John Boozman": ["@JohnBoozman", "@Boozman4AR"],
+		"Tom Cotton": ["@SenTomCotton", "@TomCottonAR"]
+	},
+	"California":
+	{
+		"Dianne Feinstein": ["@SenFeinstein"],
+		"Alex Padilla": ["@AlexPadilla4CA"]
+	},
+	"Colorado":
+	{
+		"Michael Bennet": ["@SenatorBennet", "@MichaelBennet"],
+		"John Hickenlooper": ["@SenatorHick", "@Hickenlooper"]
+	},
+	"Connecticut":
+	{
+		"Richard Blumenthal": ["@SenBlumenthal"],
+		"Chris Murphy": ["@ChrisMurphyCT"]
+	},
+	"Delaware":
+	{
+		"Tom Carper": ["@SenatorCarper", "@TomCarperforDE"],
+		"Chris Coons": ["@ChrisCoons", "@ChrisCoonsforDE"]
+	},
+	"Florida":
+	{
+		"Marco Rubio": ["@marcorubio"],
+		"Rick Scott": ["@SenRickScott", "@ScottforFlorida"]
+	},
+	"Georgia":
+	{
+		"Jon Ossoff": ["@ossoff"],
+		"Raphael Warnock": ["@ReverendWarnock"]
+	},
+	"Hawaii":
+	{
+		"Brian Schatz": ["@SenBrianSchatz", "@brianschatz"],
+		"Mazie Hirono": ["@maziehirono", "@mazieforhawaii"]
+	},
+	"Idaho":
+	{
+		"Mike Crapo": ["@MikeCrapo", "@crapoforsenate"],
+		"Jim Risch": ["@SenatorRisch", "Risch4Idaho"]
+	},
+	"Illinois":
+	{
+		"Dick Durbin": ["@SenatorDurban", "@DickDurbin"],
+		"Tammy Duckworth": ["@SenDuckworth", "@TammyforIL"]
+	},
+	"Indiana":
+	{
+		"Todd Young": ["@SenToddYoung", "@ToddYoungIN"],
+		"Mike Braun": ["@SenatorBraun", "@braun4indiana"]
+	},
+	"Iowa":
+	{
+		"Chuck Grassley": ["@ChuckGrassley"],
+		"Joni Ernst": ["@SenJoniErnst", "@joniernst"]
+	},
+	"Kansas":
+	{
+		"Jerry Moran": ["@JerryMoran"],
+		"Roger Marshall": ["@RogerMarshallMD"]
+	},
+	"Kentucky":
+	{
+		"Mitch McConnell": ["@LeaderMcConnell"],
+		"Rand Paul": ["@RandPaul", "@DrRandPaul"]
+	},
+	"Louisiana":
+	{
+		"Bill Cassidy": ["@SenBillCassidy"],
+		"John Kennedy": ["@SenJohnKennedy"]
+	},
+	"Maine":
+	{
+		"Susan Collins": ["@SenatorCollins", "@SenSusanCollins"],
+		"Angus King": ["@SenAngusKing"]
+	},
+	"Maryland":
+	{
+		"Ben Cardin": ["@SenatorCardin", "@BenCardinforMD"],
+		"Chris Van Hollen": ["@ChrisVanHollen", "@VanHollenforMD"]
+	},
+	"Massachusetts":
+	{
+		"Elizabeth Warren": ["@SenWarren", "@ewarren"],
+		"Ed Markey": ["@SenMarkey", "@EdMarkey"]
+	},
+	"Michigan":
+	{
+		"Debbie Stabenow": ["@SenStabenow", "@stabenow"],
+		"Gary Peters": ["@SenGaryPeters", "@GaryPeters"]
+	},
+	"Minnesota":
+	{
+		"Amy Klobuchar": ["@SenAmyKlobuchar", "@amyklobuchar"],
+		"Tina Smith": ["@SenTinaSmith", "@TinaSmithMN"]
+	},
+	"Mississippi":
+	{
+		 "Roger Wicker": ["@SenatorWicker", "@RogerWicker"],
+		 "Cindy Hyde-Smith": ["@SenHydeSmith", "@cindyhydesmith"]
+	},
+	"Missouri":
+	{
+		"Roy Blunt": ["@RoyBlunt", "@RoyBluntMO"],
+		"Josh Hawley": ["@HawleyMO"]
+	},
+	"Montana":
+	{
+		"John Tester": ["@SenatorTestor", "@jontester"],
+		"Steve Daines": ["@SteveDaines"]
+	},
+	"Nebraska":
+	{
+		"Deb Fischer": ["@SenatorFischer", "@DebFischerNE"],
+		"Ben Sasse": ["@SenSasse", "@BenSasse"]
+	},
+	"Nevada":
+	{
+		"Catherine Cortez Masto": ["@SenCortezMasto", "@CatherineForNV"],
+		"Jacky Rosen": ["@SenJackyRosen", "@RosenforNevada"]
+	},
+	"New Hampshire":
+	{
+		"Jeanne Shaheen": ["@SenatorShaheen", "@JeanneShaheen"],
+		"Maggie Hassan": ["@SenatorHassan", "@Maggie_Hassan"]
+	},
+	"New Jersey":
+	{
+		"Bob Menendez": ["@SenatorMenendez", "BobMenendezNJ"],
+		"Cory Booker": ["@SenBooker", "@CoryBooker"]
+	},
+	"New Mexico":
+	{
+		"Martin Heinrich": ["@MartinHeinrich", "@TeamHeinrich"],
+		"Ben Ray Lujan": ["@SenatorLujan", "@benraylujan"]
+	},
+	"New York":
+	{
+		"Chuck Schumer": ["@SenSchumer", "@chuckschumer"],
+		"Kirsten Gillibrand": ["@SenGillibrand", "gillibrandny"]
+	},
+	"North Carolina":
+	{
+		"Richard Burr": ["@SenatorBurr"],
+		"Thom Tillis": ["@SenThomTillis", "@ThomTillis"]
+	},
+	"North Dakota":
+	{
+		"John Hoeven": ["@SenJohnHoeven"],
+		"Kevin Cramer": ["@SenKevinCramer", "@kevincramer"]
+	},
+	"Ohio":
+	{
+		"Sherrod Brown": ["@SenSherrodBrown", "@SherrodBrown"],
+		"Rob Portman": ["@senrobportman", "@robportman"]
+	},
+	"Oklahoma":
+	{
+		"Jim Inhofe": ["@JimInhofe", "@inhofeforsenate"],
+		"James Lankford": ["@SenatorLankford", "@jameslankford"]
+	},
+	"Oregon":
+	{
+		"Ron Wyden": ["@RonWyden"],
+		"Jeff Merkley": ["@SenJeffMerkley", "@JeffMerkley"]
+	},
+	"Pennsylvania":
+	{
+		"Bob Casey": ["@SenBobCasey", "@Bob_Casey"],
+		"Pat Toomey": ["@SenToomey", "@PatToomey"]
+	},
+	"Rhode Island":
+	{
+		"Jack Reed": ["@SenJackReed", "@jackreed2020"],
+		"Sheldon Whitehouse": ["@SenWhitehouse"]
+	},
+	"South Carolina":
+	{
+		"Lindsey Graham": ["@LindseyGrahamSC"],
+		"Tim Scott": ["@SenatorTimScott", "@votetimescott", "@TimScottSC"]
+	},
+	"South Dakota":
+	{
+		"John Thune": ["@SenJohnThune", "@johnthune"],
+		"Mike Rounds": ["@SenatorRounds", "@RoundsforSenate"]
+	},
+	"Tennessee":
+	{
+		"Marsha Blackburn": ["@MarshaBlackburn", "@MarshaSays", "@VoteMarsha"],
+		"Bill Hagerty": ["@SenatorHagerty", "@BillHagertyTN"]
+	},
+	"Texas":
+	{
+		"John Cornyn": ["@JohnCornyn"],
+		"Ted Cruz": ["@SenTedCruz", "@tedcruz"]
+	},
+	"Utah":
+	{
+		"Mike Lee": ["@SenMikeLee"],
+		"Mitt Romney": ["@SenatorRomney", "@MittRomney"]
+	},
+	"Vermont":
+	{
+		"Patrick Leahy": ["@SenatorLeahy"],
+		"Bernie Sanders": ["@SenSanders", "@BernieSanders"] 
+	},
+	"Virginia":
+	{
+		"Mark Warner": ["@MarkWarner", "@MarkWarnerVA"],
+		"Tim Kaine": ["@timkaine"]
+	},
+	"Washington":
+	{
+		"Patty Murray": ["@PattyMurray", "@MurrayCampaign"],
+		"Maria Cantwell": ["@SenatorCantwell", "MariaCantwell"]
+	},
+	"West Virginia":
+	{
+		"Joe Manchin": ["@Sen_JoeManchin"],
+		"Shelley Moore Capito": ["@SenCapito", "@CapitoforWV"]
+	},
+	"Wisconsin":
+	{
+		"Ron Johnson": ["@SenRonJohnson", "@RonJohnsonWI"],
+		"Tammy Baldwin": ["@SenatorBaldwin", "@tammybaldwin"]
+	},
+	"Wyoming":
+	{
+		"John Barrasso": ["@SenJohnBarrasso"],
+		"Cynthia Lummis": ["@SenLummis", "@CynthiaMLummis"]
+	}
+
+}
